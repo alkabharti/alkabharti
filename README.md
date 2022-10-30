@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Graph)](https://github.com/alkabharti/Graph)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Greedy)](https://github.com/alkabharti/Greedy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Bit-Magic)](https://github.com/alkabharti/Bit-Magic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Miscellaneous)](https://github.com/alkabharti/Miscellaneous)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Low-Level-Design)](https://github.com/alkabharti/Low-Level-Design)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkabharti)](https://github.com/alkabharti/)
