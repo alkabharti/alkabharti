@@ -18,6 +18,10 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Stack-and-Queue)](https://github.com/alkabharti/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Trees)](https://github.com/alkabharti/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Hashing)](https://github.com/alkabharti/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Recursion-and-Backtracking)](https://github.com/alkabharti/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Dynamic-Programming)](https://github.com/alkabharti/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Divide-and-Conquer)](https://github.com/alkabharti/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Graph)](https://github.com/alkabharti/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkabharti)](https://github.com/alkabharti/github-readme-stats)
