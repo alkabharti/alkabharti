@@ -9,8 +9,6 @@ alkabharti/alkabharti is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![@alka16's Holopin board](https://holopin.me/alka16)](https://holopin.io/@alka16)
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Arrays)](https://github.com/alkabharti/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Strings)](https://github.com/alkabharti/github-readme-stats)
@@ -27,4 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkabharti)](https://github.com/alkabharti/github-readme-stats)
+
+
+[![@alka16's Holopin board](https://holopin.me/alka16)](https://holopin.io/@alka16)
+
 
