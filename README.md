@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Arrays)](https://github.com/alkabharti/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Strings)](https://github.com/alkabharti/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Arrays)](https://github.com/alkabharti/Arrays)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Strings)](https://github.com/alkabharti/Strings)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=LinkedList)](https://github.com/alkabharti/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Stack-and-Queue)](https://github.com/alkabharti/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkabharti&repo=Trees)](https://github.com/alkabharti/github-readme-stats)
